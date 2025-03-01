@@ -1,1 +1,1 @@
-# FYP
+This project provides a powerful AI-driven solution for detecting and visualizing deforestation using deep learning models. The combination of CNN, VGG16, and U-Net architectures enables accurate classification and segmentation of deforested areas. With an intuitive desktop and web interface, users can analyze satellite images and make informed decisions about environmental conservation.
